@@ -1,4 +1,4 @@
-## How do you do, fellow kids? 👋
+# How do you do, fellow kids? 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:belobeev.kirill@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2ca5e0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/p1t1ch)
@@ -14,7 +14,7 @@ I'm Kirill, Frontend Developer from 🇷🇺 Moscow, Russia. I like to learn new
 - ❤️ I'm also like: old movies, indie games, stand-up comedy and UK grime
 - 📫 How to reach me: text me in Telegram or send an email
 
-#### Favorite techs
+### Favorite techs
 
 ![React](https://img.shields.io/badge/React-20232a.svg?&style=flat-square&logo=react)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?&style=flat-square&logo=typescript&logoColor=white)
